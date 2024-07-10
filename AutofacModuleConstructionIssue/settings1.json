@@ -1,0 +1,12 @@
+{
+  "modules": [
+    {
+      "type": "AutofacModuleConstructionIssue.MyModule, AutofacModuleConstructionIssue",
+      "parameters": {
+        "parameterType1": {
+          "Str1": "String 1"
+        }
+      }
+    }
+  ]
+}
